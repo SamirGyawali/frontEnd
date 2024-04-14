@@ -7,3 +7,6 @@ includes personal notes, codes or chat gpt history, diagrams or anything and eve
 [Border radius visualize link for designing tool]() https://9elements.github.io/fancy-border-radius/full-control.html#10.10.45.10-90.100.90.90-.
 
 [Css Shadow real time tool]() https://shadows.brumm.af/
+
+[css docs]()
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin
